@@ -1,0 +1,17 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Gradle
+.gradle/
+build/
+
+# Minecraft runtime
+run/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
